@@ -18,10 +18,11 @@ The system helps users keep track of tasks, reduce forgetfulness, and improve pr
 
 ## Technologies Used
 
-- Python
-- Tkinter (GUI Framework)
-- JSON / CSV for local data storage
-
+- **Programming Language:** Python  
+- **GUI Framework:** Tkinter  
+- **Data Storage:** JSON / CSV  
+- **Version Control:** Git & GitHub  
+- **Development Tools:** Visual Studio Code / PyCharm
 
 
 ## How to Run
