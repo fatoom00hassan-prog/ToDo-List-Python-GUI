@@ -30,3 +30,15 @@ The system helps users keep track of tasks, reduce forgetfulness, and improve pr
 1. Install Python 3
 2. Download the project
 3. Run the application
+
+   ## Project Structure
+
+```
+ToDo-List-Python-GUI/
+├── README.md            # Project documentation
+├── src/                 # Source code of the application
+│   └── ToDo.ipynb
+├── screenshots/         # Application interface screenshots
+└── diagrams/            # System design diagrams
+```
+This project was developed as a group project as part of a Software Engineering course.
